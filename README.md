@@ -1,2 +1,2 @@
-# frontend-webdev-course
-Repository for Front-end Web Development
+#Created by Quan Nguyen.
+#Email: Quan.Nguyen2@centria.fi
